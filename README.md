@@ -2,9 +2,6 @@
 
 This project is a study, to get an idea of what Envoy has to offer as a front proxy.
 
-O learn about this sandbox and for instructions on how to run it please head over
-to the [envoy docs](https://www.envoyproxy.io/docs/envoy/latest/start/sandboxes/front_proxy.html)
-
 ## Step 1: Start all of our containers
 
 ```bash
