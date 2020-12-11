@@ -2,6 +2,12 @@
 
 This project is a study, to get an idea of what Envoy has to offer as a front proxy.
 
+## Prerequisites
+To run it locally you must ensure the following tools:
+- [Docker 19.03.0](https://docs.docker.com/engine/install/)
+- [Docker compose 1.27.4](https://docs.docker.com/compose/install/)
+- [OpenSSL 1.1.1](https://www.openssl.org/source/)
+
 ## Step 1: Start all of our containers
 
 ```bash
